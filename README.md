@@ -43,7 +43,7 @@ Forecasted Weighted CPI for the next 6 months (May–Oct 2025) using the trained
 - Hyperparameter tuning
 - Use of advanced models (e.g., XGBoost, LSTM)
 
-**Author**
+**Author**  
 Aiswarya Lakshmi P R  
 Intern at Ministry of Statistics and Programme Implementation (MoSPI)  
 MSc in Survey Research & Data Analytics  
